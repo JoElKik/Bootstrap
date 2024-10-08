@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Site afpa html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrap"
+	}
+}
